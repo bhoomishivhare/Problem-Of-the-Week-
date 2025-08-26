@@ -1,4 +1,4 @@
-# Prime Numbers with Multiple Occurrences
+Prime Numbers with Multiple Occurrences
 
 ## Problem Overview
 
